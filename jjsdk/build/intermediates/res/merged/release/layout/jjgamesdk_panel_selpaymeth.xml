@@ -1,0 +1,38 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/jjgamesdk_shape_rc_body" >
+
+    <include
+        android:id="@+id/jjgm_selpaymeth_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/jjgamesdk_panel_header" />
+
+    <TextView
+        android:id="@+id/jjgm_selpaymeth_subtitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/jjgm_selpaymeth_header"        
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="8dp"
+        android:text="@string/jjgmsdk_stub"
+        android:textColor="#777"
+        android:textSize="16sp" />
+
+    <ListView
+        android:id="@+id/jjgm_selpaymeth_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@id/jjgm_selpaymeth_subtitle"
+        android:layout_marginBottom="@dimen/jjgm_corner_size"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="#C6C9CC"
+        android:dividerHeight="1dp" >
+    </ListView>
+
+</RelativeLayout>

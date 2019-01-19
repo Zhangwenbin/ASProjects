@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\layout\\jjgamesdk_panel_waiting.xml",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\layout\\jjgamesdk_panel_waiting.xml"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\layout\\jjgamesdk_panel_common_result.xml",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\layout\\jjgamesdk_panel_common_result.xml"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\layout\\jjgamesdk_panel_selpaymeth.xml",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\layout\\jjgamesdk_panel_selpaymeth.xml"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\layout\\jjgamesdk_panel_header_with_back.xml",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\layout\\jjgamesdk_panel_header_with_back.xml"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\layout\\jjgamesdk_item_selpaymeth.xml",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\layout\\jjgamesdk_item_selpaymeth.xml"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\layout\\jjgamesdk_panel_header.xml",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\layout\\jjgamesdk_panel_header.xml"
+    }
+]

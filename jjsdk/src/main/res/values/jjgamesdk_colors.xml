@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="jjgm_color_spm_item_normal">#FFFFFF</color>
+	<color name="jjgm_color_spm_item_touch">#F0EFF5</color>
+	<color name="jjgm_color_btn_item_touch">#F0EFF5</color>
+	
+	<color name="jjgmsdk_clr_txt_white">#FFFFFF</color>
+	
+</resources>

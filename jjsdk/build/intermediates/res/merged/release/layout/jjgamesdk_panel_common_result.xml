@@ -1,0 +1,69 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/jjgamesdk_shape_rc_body" >
+
+    <include
+        android:id="@+id/jjgm_header_panel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"        
+        layout="@layout/jjgamesdk_panel_header" />
+
+    <TextView
+        android:id="@+id/jjgm_common_res_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_below="@+id/jjgm_header_panel"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:text="@string/jjgmsdk_stub" />
+    
+    <LinearLayout
+        android:id="@+id/jjgm_common_res_btn_panel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/jjgm_common_res_info"
+        android:layout_alignRight="@+id/jjgm_common_res_info"
+        android:layout_below="@+id/jjgm_common_res_info"
+        android:layout_marginTop="30dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:text="" />
+
+        <Button
+            android:id="@+id/jjgm_common_res_btn"
+            android:layout_width="0dp"
+            android:layout_height="56dp"
+            android:layout_weight="0.8"
+            android:background="@drawable/jjgamesdk_sel_btn_green"
+            android:onClick="clickAction"
+            android:text="@string/jjgmsdk_stub"
+            android:textColor="@android:color/white"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:text="" />
+    </LinearLayout>
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/jjgm_common_res_btn_panel"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="" />
+    
+</RelativeLayout>

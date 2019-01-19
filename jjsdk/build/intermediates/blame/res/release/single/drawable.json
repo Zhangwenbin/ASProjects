@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\drawable\\jjgamesdk_btn_close.png",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\drawable\\jjgamesdk_btn_close.png"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\drawable\\jjgamesdk_btn_expand.png",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\drawable\\jjgamesdk_btn_expand.png"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\drawable\\jjgamesdk_jj_logo.png",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\drawable\\jjgamesdk_jj_logo.png"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\drawable\\jjgamesdk_shape_rc_close.xml",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\drawable\\jjgamesdk_shape_rc_close.xml"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\drawable\\jjgamesdk_sel_btn_back.xml",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\drawable\\jjgamesdk_sel_btn_back.xml"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\drawable\\jjgamesdk_sel_item_selpaymeth.xml",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\drawable\\jjgamesdk_sel_item_selpaymeth.xml"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\drawable\\jjgamesdk_btn_wx.png",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\drawable\\jjgamesdk_btn_wx.png"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\drawable\\jjgamesdkui_loading_img.png",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\drawable\\jjgamesdkui_loading_img.png"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\drawable\\jjgamesdk_btn_green_press.png",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\drawable\\jjgamesdk_btn_green_press.png"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\drawable\\jjgamesdk_shape_rc_box.xml",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\drawable\\jjgamesdk_shape_rc_box.xml"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\drawable\\jjgamesdk_btn_jj_gray.png",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\drawable\\jjgamesdk_btn_jj_gray.png"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\drawable\\jjgamesdk_shape_rc_back.xml",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\drawable\\jjgamesdk_shape_rc_back.xml"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\drawable\\jjgamesdk_sel_btn_close.xml",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\drawable\\jjgamesdk_sel_btn_close.xml"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\drawable\\jjgamesdk_btn_back.png",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\drawable\\jjgamesdk_btn_back.png"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\drawable\\jjgamesdk_sel_btn_green.xml",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\drawable\\jjgamesdk_sel_btn_green.xml"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\drawable\\jjgamesdk_btn_ali.png",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\drawable\\jjgamesdk_btn_ali.png"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\drawable\\jjgamesdk_btn_jj.png",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\drawable\\jjgamesdk_btn_jj.png"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\drawable\\jjgamesdk_shape_rc_body.xml",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\drawable\\jjgamesdk_shape_rc_body.xml"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\drawable\\jjgamesdk_btn_green.png",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\drawable\\jjgamesdk_btn_green.png"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\drawable\\jjgamesdkui_loading_anim.xml",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\drawable\\jjgamesdkui_loading_anim.xml"
+    },
+    {
+        "merged": "C:\\zwb\\git\\ASProjects\\jjsdk\\build\\intermediates\\res\\merged\\release\\drawable\\jjgamesdk_shape_rc_header.xml",
+        "source": "C:\\zwb\\git\\ASProjects\\jjsdk\\src\\main\\res\\drawable\\jjgamesdk_shape_rc_header.xml"
+    }
+]

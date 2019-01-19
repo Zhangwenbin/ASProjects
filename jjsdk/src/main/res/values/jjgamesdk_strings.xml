@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="jjgmsdk_stub">[stub]</string>
+	<string name="jjgmsdk_waiting">请稍候&#8230;</string>
+	<string name="jjgmsdk_bought_info">购买信息：%1$s</string>
+	<string name="jjgmsdk_rest_gold_info">剩余金币：%1$d</string>
+	<string name="jjgmsdk_placing_order">正在下单，请稍候&#8230;</string>
+	
+	<string name="jjgmsdk_wechat_notinstall">您尚未安装微信，安装微信后才能使用微信支付!</string>
+	<string name="jjgmsdk_paychannel_notsupport">暂不支持，请选择其它支付方式。</string>
+	<string name="jjgmsdk_param_error">参数错误</string>
+	<string name="jjgmsdk_user_notlogin">登录已过期，请重新登录。</string>
+	<string name="jjgmsdk_placeorder_fail">下单失败，请确保您的网络连接正常！</string>
+	
+</resources>

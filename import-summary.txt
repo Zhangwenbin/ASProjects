@@ -1,0 +1,77 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:20.+
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => jjsdk\src\main\AndroidManifest.xml
+* assets\ => jjsdk\src\main\assets
+* libs\alipaySdk-20161222.jar => jjsdk\libs\alipaySdk-20161222.jar
+* libs\armeabi-v7a\libGCloudVoice.so.meta => jjsdk\src\main\jniLibs\armeabi-v7a\libGCloudVoice.so.meta
+* libs\bugly.jar => jjsdk\libs\bugly.jar
+* libs\buglyagent.jar => jjsdk\libs\buglyagent.jar
+* libs\classes.jar => jjsdk\libs\classes.jar
+* libs\GCloudVoice.jar => jjsdk\libs\GCloudVoice.jar
+* libs\jjanalyticssdk-release-1.3.jar => jjsdk\libs\jjanalyticssdk-release-1.3.jar
+* libs\jjgamesdk_4.0.jar => jjsdk\libs\jjgamesdk_4.0.jar
+* libs\libttEncrypt.jar => jjsdk\libs\libttEncrypt.jar
+* libs\open_sdk_r5793_lite.jar => jjsdk\libs\open_sdk_r5793_lite.jar
+* libs\umeng-analytics-7.4.0.jar => jjsdk\libs\umeng-analytics-7.4.0.jar
+* libs\umeng-common-1.4.0.jar => jjsdk\libs\umeng-common-1.4.0.jar
+* libs\unity_common.jar => jjsdk\libs\unity_common.jar
+* libs\unityutil.jar => jjsdk\libs\unityutil.jar
+* libs\wechat-sdk-android-without-mta-1.3.4.jar => jjsdk\libs\wechat-sdk-android-without-mta-1.3.4.jar
+* res\ => jjsdk\src\main\res\
+* src\ => jjsdk\src\main\java\
+
+Missing Android Support Repository:
+-----------------------------------
+Some useful libraries, such as the Android Support Library, are
+installed from a special Maven repository, which should be installed
+via the SDK manager.
+
+It looks like this library is missing from your SDK installation at:
+null
+
+To install it, open the SDK manager, and in the Extras category,
+select "Android Support Repository". You may also want to install the
+"Google Repository" if you want to use libraries like Google Play
+Services.
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

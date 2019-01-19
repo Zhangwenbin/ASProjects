@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="JJGMTheme.FloatActivityBox" parent="android:style/Theme.Dialog">
+		<item name="android:windowBackground">@drawable/jjgamesdk_shape_rc_box</item>
+    </style>
+
+</resources>
