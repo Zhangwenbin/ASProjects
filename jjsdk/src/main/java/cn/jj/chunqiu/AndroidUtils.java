@@ -96,7 +96,7 @@ public class AndroidUtils {
             //实例化TelephonyManager对象
             TelephonyManager telephonyManager = (TelephonyManager) context.getSystemService(Context.TELEPHONY_SERVICE);
             //获取IMEI号
-            @SuppressLint("MissingPermission") String imei = telephonyManager.getDeviceId();
+            @SuppressLint("MissingPermission") String imei = telephonyManager.getImei();
             //在次做个验证，也不是什么时候都能获取到的啊
             if (imei == null) {
                 imei = "";
