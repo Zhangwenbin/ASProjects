@@ -1,2 +1,2 @@
-include ':app', ':libdemo'
+include ':app', ':libdemo', ':helloeoe', ':intentmodule'
 include ':jjsdk'

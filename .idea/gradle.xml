@@ -9,6 +9,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/helloeoe" />
+            <option value="$PROJECT_DIR$/intentmodule" />
             <option value="$PROJECT_DIR$/jjsdk" />
             <option value="$PROJECT_DIR$/libdemo" />
           </set>
