@@ -8,7 +8,7 @@ import java.io.File;
 public class HotUpdate
 {
     private static HotUpdate hotUpdate = null;
-    private static final String DllFile = "CqPersist/Cache/Assembly-CSharp.dll";
+    private static final String DllFile = "CqPersist/bin/Data/Managed/Assembly-CSharp.dll";
 
     public static HotUpdate getInstance()
     {

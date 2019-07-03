@@ -24,6 +24,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="adjustResize|stateVisible"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"
+            android:name="com.gs.pn.SDKActivity">
+        </activity>
     </application>
 
 </manifest>
